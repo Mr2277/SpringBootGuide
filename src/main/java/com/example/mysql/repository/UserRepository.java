@@ -1,6 +1,6 @@
 package com.example.mysql.repository;
 
-import com.test.mysql.entity.User;
+import com.example.mysql.entity.User;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
